@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><lineup>
+
+  <artist id="111"><name>The Parlotones</name><genres><genre>Rock </genre><genre> Alternative</genre></genres><writeup>The Parlotones are known for their electric, polished stage performances delivered against the backdrop of their deftly crafted and darkly romantic lyrics.</writeup><gig><day>SUNDAY</day><time><start>14:00
+        </start><end>16:00
+        </end></time></gig><photo format="jpg">the-parlotones</photo></artist>
+  
+  <artist id="222"><name>ShortStraw</name><genres><genre>Folk </genre><genre> Acoustic</genre></genres><writeup>Shortstraw are a joburg based band making waves on the national indie music scene in a big way.</writeup><gig><day>SUNDAY</day><time><start>16:00
+        </start><end>18:00
+        </end></time></gig><photo format="jpg">shortstraw</photo></artist>
+  
+  <artist id="333"><name>Gangs of Ballet</name><genres><genre>Dance </genre><genre> Club</genre></genres><writeup>Their music, which combines their fresh energy with their musically intriguing melodies and arrangements, has a hauntingly anthemic sound.</writeup><gig><day>SATURDAY</day><time><start>12:00
+        </start><end>14:00
+        </end></time></gig><photo format="jpg">gangs-of-ballet</photo></artist>
+
+</lineup>

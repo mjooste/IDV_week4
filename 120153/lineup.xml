@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lineup>
+
+  <artist id="124">
+    <name>Pascal &amp; Pearce</name>
+    <genres>
+      <genre>dance</genre>
+      <genre>club</genre>
+    </genres>
+    <writeup>
+      After a chance meeting in 2007, Pascal Ellinas and Dave Pearce began the long winding road that is now the stellar production and DJ duo of Pascal &amp; Pearce.
+    </writeup>
+    <gig>
+      <day>FRIDAY</day>
+      <time>
+        <starts>14:00</starts>
+        <ends>16:00</ends>
+      </time>
+    </gig>
+    <photo format="jpg">pascal-pierce</photo>
+  </artist>
+
+</lineup>

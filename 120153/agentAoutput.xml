@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><lineup>
+
+  <artist id="101"><name>Jeremey Loops</name><genre>Acoustic</genre><writeup>
+      Jeremy Loops aint no traditional 'band', creating music on the spot with that there loopdaloop pedal.
+      Various artists also join him for free jam sessions &amp; the music they create is all original.
+      it'll definitely make ya dance like a hick!
+    </writeup><gig><day>FRIDAY</day><time>:00
+        <start>12</start>:00
+        <end>14</end></time></gig><photo format="jpg">jeremy-loops</photo></artist>
+  
+  <artist id="102"><name>Matthew Mole</name><genre>Acoustic</genre><writeup>
+      I'm not that good at speaking, so bare with me here.
+      Music is my second nature.
+      It takes up a lot of my time, it drives me, it makes me who I am.
+    </writeup><gig><day>SATURDAY</day><time>:00
+        <start>14</start>:00
+        <end>16</end></time></gig><photo format="jpg">matthew-mole</photo></artist>
+  
+  <artist id="103"><name>Prime Circle</name><genre>Alternative</genre><writeup>
+      Prime Circle is a South African rock band success story.
+      They’ve gone from a rehearsal room in the small town of Witbank, to one of South Africa’s most popular bands.
+      They formed in 2001.
+    </writeup><gig><day>SATURDAY</day><time>:00
+        <start>16</start>:00
+        <end>18</end></time></gig><photo format="jpg">prime-circle</photo></artist>
+
+</lineup>

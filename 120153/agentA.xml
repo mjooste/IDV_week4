@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bands>
+
+  <band id="101" genre="Acoustic" name="Jeremey Loops">
+    <timeslot day="Friday">
+      <time start="12" end="14" />
+    </timeslot>
+    <description>
+      <line>Jeremy Loops aint no traditional 'band', creating music on the spot with that there loopdaloop pedal.</line>
+      <line>Various artists also join him for free jam sessions &amp; the music they create is all original.</line>
+      <line>it'll definitely make ya dance like a hick!</line>
+    </description>
+    <image src="jeremy-loops.jpg" />
+  </band>
+  
+  <band id="102" genre="Acoustic" name="Matthew Mole">
+    <timeslot day="Saturday">
+      <time start="14" end="16" />
+    </timeslot>
+    <description>
+      <line>I'm not that good at speaking, so bare with me here.</line>
+      <line>Music is my second nature.</line>
+      <line>It takes up a lot of my time, it drives me, it makes me who I am.</line>
+    </description>
+    <image src="matthew-mole.jpg" />
+  </band>
+  
+  <band id="103" genre="Alternative" name="Prime Circle">
+    <timeslot day="Saturday">
+      <time start="16" end="18" />
+    </timeslot>
+    <description>
+      <line>Prime Circle is a South African rock band success story.</line>
+      <line>They’ve gone from a rehearsal room in the small town of Witbank, to one of South Africa’s most popular bands.</line>
+      <line>They formed in 2001.</line>
+    </description>
+    <image src="prime-circle.jpg" />
+  </band>
+
+</bands>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientlist>
+
+  <client>
+    <data key="id" value="111" />
+    <data key="name" value="The Parlotones" />
+    <data key="genre" value="Rock / Alternative" />
+    <data key="description" value="The Parlotones are known for their electric, polished stage performances delivered against the backdrop of their deftly crafted and darkly romantic lyrics." />
+    <data key="performanceday" value="Sunday" />
+    <data key="performancetime" value="02PM-04PM" />
+    <data key="picture" value="the-parlotones.jpg" />
+  </client>
+  
+  <client>
+    <data key="id" value="222" />
+    <data key="name" value="ShortStraw" />
+    <data key="genre" value="Folk / Acoustic" />
+    <data key="description" value="Shortstraw are a joburg based band making waves on the national indie music scene in a big way." />
+    <data key="performanceday" value="Sunday" />
+    <data key="performancetime" value="04PM-06PM" />
+    <data key="picture" value="shortstraw.jpg" />
+  </client>
+  
+  <client>
+    <data key="id" value="333" />
+    <data key="name" value="Gangs of Ballet" />
+    <data key="genre" value="Dance / Club" />
+    <data key="description" value="Their music, which combines their fresh energy with their musically intriguing melodies and arrangements, has a hauntingly anthemic sound." />
+    <data key="performanceday" value="Saturday" />
+    <data key="performancetime" value="12AM-02PM" />
+    <data key="picture" value="gangs-of-ballet.jpg" />
+  </client>
+
+</clientlist>
